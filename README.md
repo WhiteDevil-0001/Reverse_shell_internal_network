@@ -1,6 +1,4 @@
-# Reverse_shell_internal_network
-
-# Python Socket Shell (Educational Demo)
+# Reverse_shell_internal_network (Educational Demo)
 
 ## Purpose
 This project demonstrates how low-level socket communication and process control work in Python. It shows how a client can establish a TCP connection and interact with a system shell.
@@ -29,6 +27,3 @@ The author does **not** encourage or support misuse of this code. You are respon
 ### Requirements
 - Python 3.x
 
-Install dependencies (none required):
-```bash
-pip install -r requirements.txt
